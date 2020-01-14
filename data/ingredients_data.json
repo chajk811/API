@@ -1,0 +1,8002 @@
+[
+    {
+        "name": "foundation",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "jurisdiction",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "reproduce",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "potential",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "population",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "parameter",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "radiation",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "machinery",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "possibility",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "instruction",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "radiation sickness",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "houseplant",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "egg white",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "photograph",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "responsibility",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "credibility",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "replacement",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "sentiment",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "neighbour",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "depression",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "condition",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "reasonable",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "disposition",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "character",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "empirical",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "underline",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "motorcycle",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "legislature",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "leftovers",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "microphone",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fool around",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "basketball",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "exception",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "photocopy",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "connection",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "introduction",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "interface",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "photography",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "foreigner",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "threshold",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "detective",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "compliance",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "correspond",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "absorption",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "ice cream",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "deprivation",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "established",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "pollution",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "chauvinist",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "innovation",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "qualified",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "color-blind",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "provision",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "censorship",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "pneumonia",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "democratic",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "landowner",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "volunteer",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "essential",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "distribute",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "administration",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "transaction",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "talkative",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "confession",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "spokesperson",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "crosswalk",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "overcharge",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "generation",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "objective",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "prevalence",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "operational",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "acceptance",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "homosexual",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "ambiguous",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "constraint",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "copyright",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "negotiation",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "directory",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "substitute",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "environmental",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "timetable",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "favourite",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "firefighter",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "monstrous",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "redundancy",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cooperative",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "production",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "confidence",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "accompany",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "entertain",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "ostracize",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "mail carrier",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "battlefield",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "undertake",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "earthflax",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "bloodshed",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "tradition",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "laboratory",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "modernize",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "preparation",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "profession",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "countryside",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "inspiration",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "commitment",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "disturbance",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "breakdown",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "courtship",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "communist",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "partnership",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "circulate",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "conscious",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "insistence",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "difficult",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "progressive",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "socialist",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "girlfriend",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "privilege",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "conventional",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "destruction",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "butterfly",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "injection",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "respectable",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "satisfied",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "development",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "conviction",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "horseshoe",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "organisation",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "nomination",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "deteriorate",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "relevance",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "presentation",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "initiative",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "formulate",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "represent",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "credit card",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "integrated",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "fashionable",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "acquisition",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sacrifice",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "telephone",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "beautiful",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fascinate",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "chocolate",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "premature",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "reproduction",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "uncertainty",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "treasurer",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "conception",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "temporary",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "magnitude",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "separation",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "settlement",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "disability",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "expectation",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "architecture",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "civilization",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "circumstance",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "transparent",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "accessible",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "advertising",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "comprehensive",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "background",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "protection",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "assertive",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "articulate",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "admiration",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "occupation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "nationalism",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "temptation",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "presidential",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "reception",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "preference",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "transform",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "embarrassment",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "cigarette",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "government",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "accumulation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "suspicion",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "commemorate",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "conservation",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "important",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "coalition",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "mainstream",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "revolutionary",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "agriculture",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "dependence",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "sculpture",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "invisible",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "executive",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "encourage",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "cell phone",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "human body",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "agreement",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "opposition",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "requirement",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "satisfaction",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "consideration",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "avant-garde",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "unfortunate",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "paralyzed",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "charismatic",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "violation",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "restaurant",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "departure",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "challenge",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "fastidious",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "remunerate",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "distortion",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "speculate",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "plaintiff",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "conversation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "computer virus",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "exhibition",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "precedent",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "expression",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "publication",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "colleague",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "strategic",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "architect",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "resignation",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "calculation",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "miscarriage",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "thoughtful",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "exaggerate",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "guerrilla",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "legislation",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "interrupt",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "leadership",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "discipline",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "intention",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "champagne",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "beginning",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "permanent",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "representative",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "selection",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "temperature",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "electronics",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "inflation",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "management",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "inspector",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "goalkeeper",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "expansion",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "performance",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "introduce",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "understanding",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "breakfast",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "headquarters",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "brilliance",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "reconcile",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "nonremittal",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "chimpanzee",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "infrastructure",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "knowledge",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "decoration",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "construct",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "guideline",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "vegetation",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "definition",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "exploration",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "rehabilitation",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "consolidate",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "relinquish",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "perception",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "literature",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "possession",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "structure",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "appearance",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "horoscope",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "reflection",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hypnothize",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "adventure",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "contraction",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "responsible",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "compensation",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "earthquake",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "captivate",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "understand",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "regulation",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "conservative",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "blue jean",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "financial",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "continental",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "operation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "rebellion",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sensitive",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "consultation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "neighborhood",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "beneficiary",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "confrontation",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "straighten",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "incentive",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "gregarious",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "characteristic",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "demonstrate",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "education",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "freighter",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "indication",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "prosecute",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "emergency",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "computing",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "dangerous",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "eavesdrop",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "experiment",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "depressed",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "defendant",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "commission",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "philosophy",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "helicopter",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "penetrate",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "restoration",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "competition",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "sanctuary",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "exclusive",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "practical",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "reservoir",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "candidate",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "anniversary",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "mechanism",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "provincial",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "investment",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "assignment",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "conductor",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "achievement",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "conscience",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "craftsman",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "improvement",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "notorious",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "unpleasant",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "assumption",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "elaborate",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "hypothesize",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "discovery",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "classroom",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "difficulty",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "convention",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "reinforce",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "publicity",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "continuation",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "isolation",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "effective",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "satellite",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "apparatus",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "decorative",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "declaration",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "performer",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "particular",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "contradiction",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "concession",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hostility",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "diplomatic",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "willpower",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "secretion",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "treatment",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "mathematics",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "marketing",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "admission",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "wilderness",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "index finger",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "multimedia",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hemisphere",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "advantage",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "blackmail",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "migration",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "franchise",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fluctuation",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "participate",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "refrigerator",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "influence",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "acceptable",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "suffering",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "fisherman",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "contribution",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "excavation",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "constitution",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "celebration",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "waterfall",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "distributor",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "disappear",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "statement",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "discrimination",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "shareholder",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "sensation",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "illustrate",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "dictionary",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "attractive",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "projection",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "difference",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "accountant",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "vegetarian",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "transmission",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "appointment",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "attachment",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "artificial",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "simplicity",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "institution",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "memorandum",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "appreciate",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "instrument",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "relaxation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "parachute",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "environment",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "prejudice",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "intermediate",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "repetition",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "secretary",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "dimension",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "engagement",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "litigation",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "recording",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "quotation",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "paragraph",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "clearance",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "broadcast",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "experienced",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cultivate",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "anticipation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "extraterrestrial",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "recession",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "correction",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "short circuit",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "discourage",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "obligation",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "spontaneous",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "demonstration",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "reduction",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "preoccupation",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "allowance",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "formation",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "expertise",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "chemistry",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "recognize",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "discriminate",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "favorable",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "economist",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "orchestra",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "policeman",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "eliminate",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "confusion",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "combination",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "incredible",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "mechanical",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "domination",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "withdrawal",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "right wing",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "compromise",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "compartment",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "different",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "extension",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "residence",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "motivation",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "transition",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "correspondence",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "complication",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "supplementary",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "precision",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "disappointment",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "excitement",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "grandmother",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "enthusiasm",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "grandfather",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "stimulation",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "executrix",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "personality",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "application",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "federation",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "permission",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "competence",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "consumption",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "pedestrian",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "convenience",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "conspiracy",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "recommendation",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "undermine",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "publisher",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "inappropriate",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "president",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "revolution",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "researcher",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "authorise",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "wisecrack",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "plagiarize",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "experience",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "nationalist",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "offspring",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "offensive",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "attraction",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "concentration",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "housewife",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "exemption",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "circulation",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "establish",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "reluctance",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "vegetable",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "break down",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "landscape",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "incapable",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "ignorance",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "intelligence",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "arrangement",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "stereotype",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "presidency",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "community",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "cooperation",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "hospitality",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "deviation",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "fabricate",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "guarantee",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "comfortable",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "attention",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "biography",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "qualification",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "committee",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "productive",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "resolution",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "professor",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "examination",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "perforate",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "announcement",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "miserable",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "gas pedal",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "liability",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "constituency",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hierarchy",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "economics",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "strikebreaker",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "constellation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "superintendent",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "reputation",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "catalogue",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "conglomerate",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "prediction",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "identification",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "relationship",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sympathetic",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "acquaintance",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "intervention",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "consensus",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "manufacturer",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "functional",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "intensify",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "authority",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "interactive",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "allocation",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "overwhelm",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "assessment",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "insurance",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "constitutional",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "television",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "implication",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "automatic",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "collection",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sensitivity",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "retirement",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "direction",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "frequency",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "interference",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "negligence",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "contemporary",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "registration",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "investigation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "inhabitant",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "reference",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cooperate",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "promotion",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "rehearsal",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "unanimous",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "hypothesis",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "entitlement",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "concentrate",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "incongruous",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "technique",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "nightmare",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "convulsion",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "brainstorm",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "tournament",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "coincidence",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "expenditure",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "deficiency",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "entertainment",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "disappoint",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "recommend",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "mastermind",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "integration",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "ghostwriter",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "ambiguity",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "integrity",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "explosion",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "observation",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "continuous",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "highlight",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "corruption",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "translate",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "available",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "infection",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "information",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "curriculum",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "transport",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "communication",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "professional",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "orientation",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "aluminium",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "salvation",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "prosecution",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "manufacture",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "situation",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "inhibition",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "conference",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "consciousness",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "folk music",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "variation",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "first-hand",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "association",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "fireplace",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "technology",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cathedral",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "demonstrator",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "salesperson",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "evolution",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "psychology",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "criticism",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "advertise",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "hilarious",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "prescription",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "staircase",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "execution",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "conclusion",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "dismissal",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "proportion",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "systematic",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "therapist",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "lifestyle",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "astonishing",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "atmosphere",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "principle",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "determine",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "disagreement",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "chalk",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "deputy",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "spider",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "think",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "lobby",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "fade",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "locate",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "spray",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "drift",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "sun",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "ignore",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "seal",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "noise",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "reveal",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "meet",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "patent",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "rebel",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "maze",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "mirror",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sailor",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "vein",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "spill",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "salon",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "tile",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "robot",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "far",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "bubble",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "answer",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "award",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "figure",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cash",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "eagle",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "chest",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "crash",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "loop",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "kidnap",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "wrong",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "dip",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "twin",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "brag",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fairy",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "weight",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "temple",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "proud",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "camp",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "wood",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "clear",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "bundle",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "nose",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "shadow",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "cart",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "cord",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "ex",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "firm",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "reach",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "learn",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "output",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "tail",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "keep",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "oven",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hour",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "hall",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "crude",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "tough",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "dark",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hike",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "carrot",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "bed",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "beach",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "slide",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "piano",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "swell",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "coma",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "late",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "closed",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "jockey",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "throne",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "snatch",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "embark",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "trench",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "trip",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "dairy",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "tired",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "duty",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "burst",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "safe",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "waiter",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "layer",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "coal",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "love",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "jacket",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "useful",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "save",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "frown",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "breed",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "bottom",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "arrow",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "shape",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "home",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "jet",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "offer",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "offset",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "zone",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "tiger",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "agenda",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "harsh",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "like",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "easy",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "old",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "mind",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "just",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "marsh",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "course",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "lamb",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "ward",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cave",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "pound",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "pit",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "policy",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "eject",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "crowd",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "myth",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "sex",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "fraud",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "pain",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "insert",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "tablet",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "meadow",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "calf",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "pass",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "embryo",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "screw",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "pastel",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "aspect",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "wait",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "craft",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "stock",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "trial",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "proof",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "legend",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "dump",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "reduce",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sniff",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "latest",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "master",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "clean",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "injury",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "thrust",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "slant",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "shock",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "sister",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "smile",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "rank",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "member",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "voter",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "halt",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "will",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "mature",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "banner",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "lesson",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "fair",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "drive",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "insist",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "gas",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "manner",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "freeze",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "red",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "solid",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "tissue",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "valley",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "ensure",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "barrel",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "hobby",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "efflux",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "real",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "social",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "berry",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "faith",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "polite",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "cell",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "afford",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "occupy",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "sector",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "runner",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "tumour",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "bang",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "Koran",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "chief",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "major",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "behead",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "spell",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "beg",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "well",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "door",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "flock",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "native",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "crime",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "jungle",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "palm",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "notice",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "depend",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "system",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "touch",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "garlic",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "set",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "shout",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "orange",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "hard",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "spoil",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "manage",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "metal",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "stuff",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "groan",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "girl",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "opera",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "tray",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "grow",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "art",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "force",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "novel",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "second",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "note",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "brink",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "split",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "store",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "unrest",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "mole",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "blind",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "abuse",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "wild",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "Venus",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "lion",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "remain",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "wolf",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "tax",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sugar",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hear",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fever",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "burn",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "pack",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "admit",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "give",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "slump",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "beat",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "stun",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "hold",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "record",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sheep",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "tube",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "band",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "warn",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "flat",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "fence",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "indoor",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "buffet",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "staff",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cold",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hang",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "cinema",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "planet",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "mutual",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "rider",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "lease",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "judge",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "clerk",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "hotdog",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "ready",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "stir",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "bar",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "rare",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "show",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "sip",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "cheek",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "handy",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "morale",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fibre",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "veil",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "drawer",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sour",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "thigh",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "bet",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "unique",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "hill",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "face",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "bee",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "quiet",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "burial",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "bloody",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "grave",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "sleeve",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "head",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "exit",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "degree",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "rotten",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "frank",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "apathy",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "pie",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "low",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "shed",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "defeat",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "baby",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "nail",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "swipe",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "truth",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sock",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "tool",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "morsel",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "virgin",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "root",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "stress",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "tract",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "expand",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "tasty",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "area",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "length",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "candle",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "desire",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "cream",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "folk",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "liver",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "sleep",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "strain",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "pat",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "shine",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "avenue",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "bring",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "cool",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "code",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "enter",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "orgy",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "heal",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "leak",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "have",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "impact",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "glass",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "decade",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fame",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "speech",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "tribe",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "utter",
+        "fields": {
+            "oily": "X",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "swop",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "disco",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "safari",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "shower",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "merit",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "suburb",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "detail",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "graze",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "steak",
+        "fields": {
+            "oily": "",
+            "dry": "X",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "cancel",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "album",
+        "fields": {
+            "oily": "O",
+            "dry": "X",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "pace",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "review",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "list",
+        "fields": {
+            "oily": "O",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "tear",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "fold",
+        "fields": {
+            "oily": "",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "palace",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "lonely",
+        "fields": {
+            "oily": "X",
+            "dry": "X",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "appeal",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": ""
+        }
+    },
+    {
+        "name": "pillow",
+        "fields": {
+            "oily": "O",
+            "dry": "O",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "belly",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "O"
+        }
+    },
+    {
+        "name": "buy",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "hurt",
+        "fields": {
+            "oily": "X",
+            "dry": "",
+            "sensitive": "X"
+        }
+    },
+    {
+        "name": "habit",
+        "fields": {
+            "oily": "",
+            "dry": "",
+            "sensitive": "O"
+        }
+    }
+]
